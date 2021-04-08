@@ -1,0 +1,6148 @@
+{
+	"data": [
+		{
+			"level": 1,
+			"label": "3C及电器",
+			"value": 1901,
+			"children": [
+				{
+					"level": 2,
+					"label": "消费类电子产品",
+					"value": 190101,
+					"children": [
+						{
+							"level": 3,
+							"label": "手机及配件",
+							"value": 19010101
+						},
+						{
+							"level": 3,
+							"label": "电脑及配件",
+							"value": 19010102
+						},
+						{
+							"level": 3,
+							"label": "摄影设备",
+							"value": 19010103
+						},
+						{
+							"level": 3,
+							"label": "随身影音",
+							"value": 19010104
+						},
+						{
+							"level": 3,
+							"label": "电玩学习机",
+							"value": 19010105
+						},
+						{
+							"level": 3,
+							"label": "办公设备",
+							"value": 19010106
+						},
+						{
+							"level": 3,
+							"label": "数码产品配件",
+							"value": 19010107
+						},
+						{
+							"level": 3,
+							"label": "智能穿戴",
+							"value": 19010108
+						},
+						{
+							"level": 3,
+							"label": "其他消费类电子产品",
+							"value": 19010109
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "电器",
+					"value": 190102,
+					"children": [
+						{
+							"level": 3,
+							"label": "厨房电器",
+							"value": 19010201
+						},
+						{
+							"level": 3,
+							"label": "生活电器",
+							"value": 19010202
+						},
+						{
+							"level": 3,
+							"label": "影音电器",
+							"value": 19010203
+						},
+						{
+							"level": 3,
+							"label": "护理保健",
+							"value": 19010204
+						},
+						{
+							"level": 3,
+							"label": "家电配件",
+							"value": 19010205
+						},
+						{
+							"level": 3,
+							"label": "卫浴电器",
+							"value": 19010206
+						},
+						{
+							"level": 3,
+							"label": "商用电器",
+							"value": 19010207
+						},
+						{
+							"level": 3,
+							"label": "其他电器",
+							"value": 19010208
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "其他3C及电器",
+					"value": 190103,
+					"children": [
+						{
+							"level": 3,
+							"label": "其他3C及电器",
+							"value": 19010301
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "手机",
+					"value": 190104,
+					"children": [
+						{
+							"level": 3,
+							"label": "手机",
+							"value": 19010401
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "手机配件",
+					"value": 190105,
+					"children": [
+						{
+							"level": 3,
+							"label": "手机配件",
+							"value": 19010501
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "电脑",
+					"value": 190106,
+					"children": [
+						{
+							"level": 3,
+							"label": "电脑",
+							"value": 19010601
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "电脑配件",
+					"value": 190107,
+					"children": [
+						{
+							"level": 3,
+							"label": "电脑配件",
+							"value": 19010701
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "3C及电器电商",
+					"value": 190108,
+					"children": [
+						{
+							"level": 3,
+							"label": "3C及电器电商",
+							"value": 19010801
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "3C及电器线下零售",
+					"value": 190109,
+					"children": [
+						{
+							"level": 3,
+							"label": "3C及电器线下零售",
+							"value": 19010901
+						}
+					]
+				}
+			]
+		},
+		{
+			"level": 1,
+			"label": "快速消费品",
+			"value": 1902,
+			"children": [
+				{
+					"level": 2,
+					"label": "日化用品",
+					"value": 190201,
+					"children": [
+						{
+							"level": 3,
+							"label": "洗护用品",
+							"value": 19020101
+						},
+						{
+							"level": 3,
+							"label": "家庭护理品",
+							"value": 19020102
+						},
+						{
+							"level": 3,
+							"label": "其他日化用品",
+							"value": 19020103
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "一般化妆品",
+					"value": 190202,
+					"children": [
+						{
+							"level": 3,
+							"label": "保养护肤",
+							"value": 19020201
+						},
+						{
+							"level": 3,
+							"label": "彩妆",
+							"value": 19020202
+						},
+						{
+							"level": 3,
+							"label": "香水",
+							"value": 19020203
+						},
+						{
+							"level": 3,
+							"label": "祛痘",
+							"value": 19020204
+						},
+						{
+							"level": 3,
+							"label": "其他一般化妆品",
+							"value": 19020205
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "高档化妆品",
+					"value": 190203,
+					"children": [
+						{
+							"level": 3,
+							"label": "高档护肤品",
+							"value": 19020301
+						},
+						{
+							"level": 3,
+							"label": "高档彩妆",
+							"value": 19020302
+						},
+						{
+							"level": 3,
+							"label": "高档香水",
+							"value": 19020303
+						},
+						{
+							"level": 3,
+							"label": "其他高档化妆品",
+							"value": 19020304
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "特殊化妆品",
+					"value": 190204,
+					"children": [
+						{
+							"level": 3,
+							"label": "育发",
+							"value": 19020401
+						},
+						{
+							"level": 3,
+							"label": "染发",
+							"value": 19020402
+						},
+						{
+							"level": 3,
+							"label": "烫发",
+							"value": 19020403
+						},
+						{
+							"level": 3,
+							"label": "脱毛",
+							"value": 19020404
+						},
+						{
+							"level": 3,
+							"label": "健美",
+							"value": 19020405
+						},
+						{
+							"level": 3,
+							"label": "美乳",
+							"value": 19020406
+						},
+						{
+							"level": 3,
+							"label": "祛斑",
+							"value": 19020407
+						},
+						{
+							"level": 3,
+							"label": "除臭",
+							"value": 19020408
+						},
+						{
+							"level": 3,
+							"label": "防晒",
+							"value": 19020409
+						},
+						{
+							"level": 3,
+							"label": "减肥类",
+							"value": 19020410
+						},
+						{
+							"level": 3,
+							"label": "其他特殊化妆品",
+							"value": 19020411
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "酒",
+					"value": 190205,
+					"children": [
+						{
+							"level": 3,
+							"label": "白酒",
+							"value": 19020501
+						},
+						{
+							"level": 3,
+							"label": "黄酒",
+							"value": 19020502
+						},
+						{
+							"level": 3,
+							"label": "葡萄酒",
+							"value": 19020503
+						},
+						{
+							"level": 3,
+							"label": "啤酒",
+							"value": 19020504
+						},
+						{
+							"level": 3,
+							"label": "调和酒",
+							"value": 19020505
+						},
+						{
+							"level": 3,
+							"label": "其他洋酒",
+							"value": 19020506
+						},
+						{
+							"level": 3,
+							"label": "其他传统酒",
+							"value": 19020507
+						},
+						{
+							"level": 3,
+							"label": "其他酒",
+							"value": 19020508
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "烟",
+					"value": 190206,
+					"children": [
+						{
+							"level": 3,
+							"label": "烟",
+							"value": 19020601
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "成人用品",
+					"value": 190207,
+					"children": [
+						{
+							"level": 3,
+							"label": "计生用品",
+							"value": 19020701
+						},
+						{
+							"level": 3,
+							"label": "情趣用品",
+							"value": 19020702
+						},
+						{
+							"level": 3,
+							"label": "其他成人用品",
+							"value": 19020703
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "宠物用品",
+					"value": 190208,
+					"children": [
+						{
+							"level": 3,
+							"label": "宠物食品",
+							"value": 19020801
+						},
+						{
+							"level": 3,
+							"label": "宠物日用品",
+							"value": 19020802
+						},
+						{
+							"level": 3,
+							"label": "其他宠物用品",
+							"value": 19020803
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "母婴用品",
+					"value": 190209,
+					"children": [
+						{
+							"level": 3,
+							"label": "母婴服装",
+							"value": 19020901
+						},
+						{
+							"level": 3,
+							"label": "孕妇用品",
+							"value": 19020902
+						},
+						{
+							"level": 3,
+							"label": "婴儿用品",
+							"value": 19020903
+						},
+						{
+							"level": 3,
+							"label": "奶粉",
+							"value": 19020904
+						},
+						{
+							"level": 3,
+							"label": "辅食",
+							"value": 19020905
+						},
+						{
+							"level": 3,
+							"label": "其他母婴用品",
+							"value": 19020906
+						},
+						{
+							"level": 3,
+							"label": "儿童玩具",
+							"value": 19020907
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "其他快速消费品",
+					"value": 190210,
+					"children": [
+						{
+							"level": 3,
+							"label": "其他快速消费品",
+							"value": 19021001
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "化妆品及日化电商",
+					"value": 190211,
+					"children": [
+						{
+							"level": 3,
+							"label": "化妆品及日化电商",
+							"value": 19021101
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "化妆品及日化线下零售",
+					"value": 190212,
+					"children": [
+						{
+							"level": 3,
+							"label": "化妆品及日化线下零售",
+							"value": 19021201
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "母婴用品电商",
+					"value": 190213,
+					"children": [
+						{
+							"level": 3,
+							"label": "母婴用品电商",
+							"value": 19021301
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "母婴用品线下零售",
+					"value": 190214,
+					"children": [
+						{
+							"level": 3,
+							"label": "母婴用品线下零售",
+							"value": 19021401
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "烟酒电商",
+					"value": 190215,
+					"children": [
+						{
+							"level": 3,
+							"label": "烟酒电商",
+							"value": 19021501
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "烟酒线下零售",
+					"value": 190216,
+					"children": [
+						{
+							"level": 3,
+							"label": "烟酒线下零售",
+							"value": 19021601
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "宠物用品电商",
+					"value": 190217,
+					"children": [
+						{
+							"level": 3,
+							"label": "宠物用品电商",
+							"value": 19021701
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "宠物用品线下零售",
+					"value": 190218,
+					"children": [
+						{
+							"level": 3,
+							"label": "宠物用品线下零售",
+							"value": 19021801
+						}
+					]
+				}
+			]
+		},
+		{
+			"level": 1,
+			"label": "食品饮料",
+			"value": 1903,
+			"children": [
+				{
+					"level": 2,
+					"label": "休闲零食",
+					"value": 190301,
+					"children": [
+						{
+							"level": 3,
+							"label": "休闲零食",
+							"value": 19030101
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "饮料冲调",
+					"value": 190302,
+					"children": [
+						{
+							"level": 3,
+							"label": "液体饮料",
+							"value": 19030201
+						},
+						{
+							"level": 3,
+							"label": "茶叶",
+							"value": 19030202
+						},
+						{
+							"level": 3,
+							"label": "冲调饮品",
+							"value": 19030203
+						},
+						{
+							"level": 3,
+							"label": "其他饮料冲调",
+							"value": 19030204
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "乳制品及乳制品饮料",
+					"value": 190303,
+					"children": [
+						{
+							"level": 3,
+							"label": "乳制品及乳制品饮料",
+							"value": 19030301
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "粮油米面",
+					"value": 190304,
+					"children": [
+						{
+							"level": 3,
+							"label": "粮油米面",
+							"value": 19030401
+						},
+						{
+							"level": 3,
+							"label": "调味品",
+							"value": 19030402
+						},
+						{
+							"level": 3,
+							"label": "其他粮油米面",
+							"value": 19030403
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "生鲜",
+					"value": 190305,
+					"children": [
+						{
+							"level": 3,
+							"label": "肉禽蛋",
+							"value": 19030501
+						},
+						{
+							"level": 3,
+							"label": "海产",
+							"value": 19030502
+						},
+						{
+							"level": 3,
+							"label": "蔬菜",
+							"value": 19030503
+						},
+						{
+							"level": 3,
+							"label": "水果",
+							"value": 19030504
+						},
+						{
+							"level": 3,
+							"label": "其他生鲜",
+							"value": 19030505
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "代餐",
+					"value": 190306,
+					"children": [
+						{
+							"level": 3,
+							"label": "代餐",
+							"value": 19030601
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "其他食用初级农产品",
+					"value": 190307,
+					"children": [
+						{
+							"level": 3,
+							"label": "其他食用初级农产品",
+							"value": 19030701
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "营养品",
+					"value": 190308,
+					"children": [
+						{
+							"level": 3,
+							"label": "营养品",
+							"value": 19030801
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "其他食品饮料",
+					"value": 190309,
+					"children": [
+						{
+							"level": 3,
+							"label": "其他食品饮料",
+							"value": 19030901
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "酒",
+					"value": 190310,
+					"children": [
+						{
+							"level": 3,
+							"label": "白酒",
+							"value": 19031001
+						},
+						{
+							"level": 3,
+							"label": "黄酒",
+							"value": 19031002
+						},
+						{
+							"level": 3,
+							"label": "葡萄酒",
+							"value": 19031003
+						},
+						{
+							"level": 3,
+							"label": "啤酒",
+							"value": 19031004
+						},
+						{
+							"level": 3,
+							"label": "调和酒",
+							"value": 19031005
+						},
+						{
+							"level": 3,
+							"label": "其他洋酒",
+							"value": 19031006
+						},
+						{
+							"level": 3,
+							"label": "其他传统酒",
+							"value": 19031007
+						},
+						{
+							"level": 3,
+							"label": "其他酒",
+							"value": 19031008
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "食品饮料（非生鲜）电商",
+					"value": 190311,
+					"children": [
+						{
+							"level": 3,
+							"label": "食品饮料（非生鲜）电商",
+							"value": 19031101
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "食品饮料（非生鲜）线下零售",
+					"value": 190312,
+					"children": [
+						{
+							"level": 3,
+							"label": "食品饮料（非生鲜）线下零售",
+							"value": 19031201
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "生鲜电商",
+					"value": 190313,
+					"children": [
+						{
+							"level": 3,
+							"label": "生鲜电商",
+							"value": 19031301
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "生鲜线下零售",
+					"value": 190314,
+					"children": [
+						{
+							"level": 3,
+							"label": "生鲜线下零售",
+							"value": 19031401
+						}
+					]
+				}
+			]
+		},
+		{
+			"level": 1,
+			"label": "服装配饰",
+			"value": 1904,
+			"children": [
+				{
+					"level": 2,
+					"label": "一般服装鞋帽",
+					"value": 190401,
+					"children": [
+						{
+							"level": 3,
+							"label": "帽",
+							"value": 19040112
+						},
+						{
+							"level": 3,
+							"label": "童装",
+							"value": 19040103
+						},
+						{
+							"level": 3,
+							"label": "家居保暖衣",
+							"value": 19040105
+						},
+						{
+							"level": 3,
+							"label": "女装",
+							"value": 19040101
+						},
+						{
+							"level": 3,
+							"label": "内衣",
+							"value": 19040104
+						},
+						{
+							"level": 3,
+							"label": "服装加工定做",
+							"value": 19040106
+						},
+						{
+							"level": 3,
+							"label": "袜",
+							"value": 19040109
+						},
+						{
+							"level": 3,
+							"label": "腰带",
+							"value": 19040110
+						},
+						{
+							"level": 3,
+							"label": "围巾",
+							"value": 19040111
+						},
+						{
+							"level": 3,
+							"label": "男装",
+							"value": 19040102
+						},
+						{
+							"level": 3,
+							"label": "手套",
+							"value": 19040113
+						},
+						{
+							"level": 3,
+							"label": "其他服装鞋帽",
+							"value": 19040114
+						},
+						{
+							"level": 3,
+							"label": "特殊服饰",
+							"value": 19040107
+						},
+						{
+							"level": 3,
+							"label": "鞋",
+							"value": 19040108
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "高档服装鞋帽",
+					"value": 190402,
+					"children": [
+						{
+							"level": 3,
+							"label": "高档服装鞋帽",
+							"value": 19040201
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "一般箱包眼镜",
+					"value": 190403,
+					"children": [
+						{
+							"level": 3,
+							"label": "其他箱包眼镜",
+							"value": 19040304
+						},
+						{
+							"level": 3,
+							"label": "箱包",
+							"value": 19040301
+						},
+						{
+							"level": 3,
+							"label": "箱包配件",
+							"value": 19040302
+						},
+						{
+							"level": 3,
+							"label": "眼镜",
+							"value": 19040303
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "高档箱包眼镜",
+					"value": 190404,
+					"children": [
+						{
+							"level": 3,
+							"label": "高档箱包眼镜",
+							"value": 19040401
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "一般钟表",
+					"value": 190405,
+					"children": [
+						{
+							"level": 3,
+							"label": "一般钟表",
+							"value": 19040501
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "高档钟表",
+					"value": 190406,
+					"children": [
+						{
+							"level": 3,
+							"label": "高档钟表",
+							"value": 19040601
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "一般珠宝饰品",
+					"value": 190407,
+					"children": [
+						{
+							"level": 3,
+							"label": "金银饰品",
+							"value": 19040702
+						},
+						{
+							"level": 3,
+							"label": "小饰品",
+							"value": 19040703
+						},
+						{
+							"level": 3,
+							"label": "其他珠宝饰品",
+							"value": 19040704
+						},
+						{
+							"level": 3,
+							"label": "珍珠宝石",
+							"value": 19040701
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "高档珠宝饰品",
+					"value": 190408,
+					"children": [
+						{
+							"level": 3,
+							"label": "高档珠宝饰品",
+							"value": 19040801
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "其他服装配饰",
+					"value": 190409,
+					"children": [
+						{
+							"level": 3,
+							"label": "其他服装配饰",
+							"value": 19040901
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "服装配饰电商",
+					"value": 190410,
+					"children": [
+						{
+							"level": 3,
+							"label": "服装配饰电商",
+							"value": 19041001
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "服装配饰线下零售",
+					"value": 190411,
+					"children": [
+						{
+							"level": 3,
+							"label": "服装配饰线下零售",
+							"value": 19041101
+						}
+					]
+				}
+			]
+		},
+		{
+			"level": 1,
+			"label": "医疗",
+			"value": 1905,
+			"children": [
+				{
+					"level": 2,
+					"label": "医疗机构",
+					"value": 190501,
+					"children": [
+						{
+							"level": 3,
+							"label": "美容整形",
+							"value": 19050101
+						},
+						{
+							"level": 3,
+							"label": "口腔医院",
+							"value": 19050102
+						},
+						{
+							"level": 3,
+							"label": "眼科医院",
+							"value": 19050103
+						},
+						{
+							"level": 3,
+							"label": "高端妇幼",
+							"value": 19050104
+						},
+						{
+							"level": 3,
+							"label": "男科医院",
+							"value": 19050105
+						},
+						{
+							"level": 3,
+							"label": "妇科医院",
+							"value": 19050106
+						},
+						{
+							"level": 3,
+							"label": "皮肤医院",
+							"value": 19050107
+						},
+						{
+							"level": 3,
+							"label": "体检中心",
+							"value": 19050108
+						},
+						{
+							"level": 3,
+							"label": "综合医院",
+							"value": 19050109
+						},
+						{
+							"level": 3,
+							"label": "兽类医院/诊所",
+							"value": 19050110
+						},
+						{
+							"level": 3,
+							"label": "中医医院",
+							"value": 19050111
+						},
+						{
+							"level": 3,
+							"label": "其他医疗机构",
+							"value": 19050112
+						},
+						{
+							"level": 3,
+							"label": "中医馆",
+							"value": 19050113
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "医疗器械",
+					"value": 190503,
+					"children": [
+						{
+							"level": 3,
+							"label": "一类医疗器械",
+							"value": 19050301
+						},
+						{
+							"level": 3,
+							"label": "二类医疗器械",
+							"value": 19050302
+						},
+						{
+							"level": 3,
+							"label": "三类医疗器械",
+							"value": 19050303
+						},
+						{
+							"level": 3,
+							"label": "其他医疗器械",
+							"value": 19050304
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "药品",
+					"value": 190504,
+					"children": [
+						{
+							"level": 3,
+							"label": "补肾药",
+							"value": 19050401
+						},
+						{
+							"level": 3,
+							"label": "妇科用药",
+							"value": 19050402
+						},
+						{
+							"level": 3,
+							"label": "糖尿病药",
+							"value": 19050403
+						},
+						{
+							"level": 3,
+							"label": "肝胆胰药",
+							"value": 19050404
+						},
+						{
+							"level": 3,
+							"label": "呼吸系统药",
+							"value": 19050405
+						},
+						{
+							"level": 3,
+							"label": "神经系统药",
+							"value": 19050406
+						},
+						{
+							"level": 3,
+							"label": "泌尿系统药",
+							"value": 19050407
+						},
+						{
+							"level": 3,
+							"label": "皮肤用药",
+							"value": 19050408
+						},
+						{
+							"level": 3,
+							"label": "风湿关节药",
+							"value": 19050409
+						},
+						{
+							"level": 3,
+							"label": "心脑血管药",
+							"value": 19050410
+						},
+						{
+							"level": 3,
+							"label": "胃肠疾病药",
+							"value": 19050411
+						},
+						{
+							"level": 3,
+							"label": "清热解毒药",
+							"value": 19050412
+						},
+						{
+							"level": 3,
+							"label": "儿科药",
+							"value": 19050413
+						},
+						{
+							"level": 3,
+							"label": "减肥药",
+							"value": 19050414
+						},
+						{
+							"level": 3,
+							"label": "维生素药",
+							"value": 19050415
+						},
+						{
+							"level": 3,
+							"label": "医药中间体",
+							"value": 19050416
+						},
+						{
+							"level": 3,
+							"label": "兽药",
+							"value": 19050417
+						},
+						{
+							"level": 3,
+							"label": "其他药品",
+							"value": 19050418
+						},
+						{
+							"level": 3,
+							"label": "丰胸药品",
+							"value": 19050419
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "保健品",
+					"value": 190505,
+					"children": [
+						{
+							"level": 3,
+							"label": "补充矿物质、维生素",
+							"value": 19050501
+						},
+						{
+							"level": 3,
+							"label": "促进排铅",
+							"value": 19050502
+						},
+						{
+							"level": 3,
+							"label": "辅助降血压",
+							"value": 19050503
+						},
+						{
+							"level": 3,
+							"label": "促进泌乳",
+							"value": 19050504
+						},
+						{
+							"level": 3,
+							"label": "抗疲劳",
+							"value": 19050505
+						},
+						{
+							"level": 3,
+							"label": "对辐射危害有辅助作用",
+							"value": 19050506
+						},
+						{
+							"level": 3,
+							"label": "促进生长发育",
+							"value": 19050507
+						},
+						{
+							"level": 3,
+							"label": "改善营养性贫血",
+							"value": 19050508
+						},
+						{
+							"level": 3,
+							"label": "调节肠道菌群",
+							"value": 19050509
+						},
+						{
+							"level": 3,
+							"label": "通便",
+							"value": 19050510
+						},
+						{
+							"level": 3,
+							"label": "对胃粘膜有辅助保护功能",
+							"value": 19050511
+						},
+						{
+							"level": 3,
+							"label": "祛黄褐斑",
+							"value": 19050512
+						},
+						{
+							"level": 3,
+							"label": "改善皮肤油份",
+							"value": 19050513
+						},
+						{
+							"level": 3,
+							"label": "辅助降血糖",
+							"value": 19050514
+						},
+						{
+							"level": 3,
+							"label": "辅助降血脂",
+							"value": 19050515
+						},
+						{
+							"level": 3,
+							"label": "清咽润喉",
+							"value": 19050516
+						},
+						{
+							"level": 3,
+							"label": "抗突变",
+							"value": 19050517
+						},
+						{
+							"level": 3,
+							"label": "耐缺氧",
+							"value": 19050518
+						},
+						{
+							"level": 3,
+							"label": "促进消化",
+							"value": 19050519
+						},
+						{
+							"level": 3,
+							"label": "祛痤疮",
+							"value": 19050520
+						},
+						{
+							"level": 3,
+							"label": "改善皮肤水分",
+							"value": 19050521
+						},
+						{
+							"level": 3,
+							"label": "调节、增强免疫",
+							"value": 19050522
+						},
+						{
+							"level": 3,
+							"label": "改善睡眠",
+							"value": 19050523
+						},
+						{
+							"level": 3,
+							"label": "辅助改善记忆",
+							"value": 19050524
+						},
+						{
+							"level": 3,
+							"label": "缓解视力疲劳",
+							"value": 19050525
+						},
+						{
+							"level": 3,
+							"label": "减肥",
+							"value": 19050526
+						},
+						{
+							"level": 3,
+							"label": "提高缺氧耐受力",
+							"value": 19050527
+						},
+						{
+							"level": 3,
+							"label": "增加骨密度",
+							"value": 19050528
+						},
+						{
+							"level": 3,
+							"label": "抗氧化",
+							"value": 19050529
+						},
+						{
+							"level": 3,
+							"label": "化学性肝损伤辅助保护",
+							"value": 19050530
+						},
+						{
+							"level": 3,
+							"label": "皮肤类保健品",
+							"value": 19050531
+						},
+						{
+							"level": 3,
+							"label": "宠物保健品",
+							"value": 19050532
+						},
+						{
+							"level": 3,
+							"label": "其他保健品",
+							"value": 19050533
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "医疗周边服务",
+					"value": 190506,
+					"children": [
+						{
+							"level": 3,
+							"label": "心理咨询",
+							"value": 19050601
+						},
+						{
+							"level": 3,
+							"label": "视力矫正",
+							"value": 19050602
+						},
+						{
+							"level": 3,
+							"label": "基因检测",
+							"value": 19050603
+						},
+						{
+							"level": 3,
+							"label": "赴外医疗",
+							"value": 19050604
+						},
+						{
+							"level": 3,
+							"label": "康复中心",
+							"value": 19050605
+						},
+						{
+							"level": 3,
+							"label": "其他周边服务",
+							"value": 19050606
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "其他医疗",
+					"value": 190507,
+					"children": [
+						{
+							"level": 3,
+							"label": "其他医疗",
+							"value": 19050701
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "医疗综合服务平台",
+					"value": 190508,
+					"children": [
+						{
+							"level": 3,
+							"label": "医疗综合服务平台",
+							"value": 19050801
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "兽药",
+					"value": 190509,
+					"children": [
+						{
+							"level": 3,
+							"label": "兽药",
+							"value": 19050901
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "网上药店/医药电商",
+					"value": 190510,
+					"children": [
+						{
+							"level": 3,
+							"label": "网上药店/医药电商",
+							"value": 19051001
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "药店/医药线下零售",
+					"value": 190511,
+					"children": [
+						{
+							"level": 3,
+							"label": "药店/医药线下零售",
+							"value": 19051101
+						}
+					]
+				}
+			]
+		},
+		{
+			"level": 1,
+			"label": "商务服务",
+			"value": 1906,
+			"children": [
+				{
+					"level": 2,
+					"label": "安全安保",
+					"value": 190601,
+					"children": [
+						{
+							"level": 3,
+							"label": "防盗报警",
+							"value": 19060101
+						},
+						{
+							"level": 3,
+							"label": "保安安保",
+							"value": 19060102
+						},
+						{
+							"level": 3,
+							"label": "警用装备",
+							"value": 19060103
+						},
+						{
+							"level": 3,
+							"label": "门禁考勤",
+							"value": 19060104
+						},
+						{
+							"level": 3,
+							"label": "交通消防",
+							"value": 19060105
+						},
+						{
+							"level": 3,
+							"label": "其他安全安保",
+							"value": 19060106
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "出版传媒",
+					"value": 190602,
+					"children": [
+						{
+							"level": 3,
+							"label": "出版传媒",
+							"value": 19060201
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "包装印刷",
+					"value": 190603,
+					"children": [
+						{
+							"level": 3,
+							"label": "包装印刷",
+							"value": 19060301
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "中介服务",
+					"value": 190604,
+					"children": [
+						{
+							"level": 3,
+							"label": "中介服务",
+							"value": 19060401
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "管理咨询",
+					"value": 190605,
+					"children": [
+						{
+							"level": 3,
+							"label": "管理咨询",
+							"value": 19060501
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "广告服务",
+					"value": 190606,
+					"children": [
+						{
+							"level": 3,
+							"label": "广告服务",
+							"value": 19060601
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "商演会展",
+					"value": 190607,
+					"children": [
+						{
+							"level": 3,
+							"label": "商演会展",
+							"value": 19060701
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "设计",
+					"value": 190608,
+					"children": [
+						{
+							"level": 3,
+							"label": "设计",
+							"value": 19060801
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "会计税务",
+					"value": 190609,
+					"children": [
+						{
+							"level": 3,
+							"label": "会计税务",
+							"value": 19060901
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "法律服务",
+					"value": 190610,
+					"children": [
+						{
+							"level": 3,
+							"label": "个人律师",
+							"value": 19061001
+						},
+						{
+							"level": 3,
+							"label": "律所",
+							"value": 19061002
+						},
+						{
+							"level": 3,
+							"label": "其他法律服务",
+							"value": 19061003
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "人力资源服务",
+					"value": 190611,
+					"children": [
+						{
+							"level": 3,
+							"label": "招聘服务",
+							"value": 19061101
+						},
+						{
+							"level": 3,
+							"label": "劳务外包服务",
+							"value": 19061102
+						},
+						{
+							"level": 3,
+							"label": "其他人力资源服务",
+							"value": 19061103
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "其他商务服务",
+					"value": 190612,
+					"children": [
+						{
+							"level": 3,
+							"label": "其他商务服务",
+							"value": 19061201
+						}
+					]
+				}
+			]
+		},
+		{
+			"level": 1,
+			"label": "生活服务",
+			"value": 1907,
+			"children": [
+				{
+					"level": 2,
+					"label": "生活服务综合平台",
+					"value": 190701,
+					"children": [
+						{
+							"level": 3,
+							"label": "生活服务综合平台",
+							"value": 19070101
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "便民服务",
+					"value": 190702,
+					"children": [
+						{
+							"level": 3,
+							"label": "开锁配钥",
+							"value": 19070201
+						},
+						{
+							"level": 3,
+							"label": "洗衣护理",
+							"value": 19070202
+						},
+						{
+							"level": 3,
+							"label": "搬家服务",
+							"value": 19070203
+						},
+						{
+							"level": 3,
+							"label": "维修服务",
+							"value": 19070204
+						},
+						{
+							"level": 3,
+							"label": "办证刻章",
+							"value": 19070205
+						},
+						{
+							"level": 3,
+							"label": "婚庆服务",
+							"value": 19070206
+						},
+						{
+							"level": 3,
+							"label": "丧葬服务",
+							"value": 19070207
+						},
+						{
+							"level": 3,
+							"label": "宠物服务",
+							"value": 19070208
+						},
+						{
+							"level": 3,
+							"label": "充值服务",
+							"value": 19070209
+						},
+						{
+							"level": 3,
+							"label": "除虫服务",
+							"value": 19070210
+						},
+						{
+							"level": 3,
+							"label": "洗浴/汗蒸",
+							"value": 19070211
+						},
+						{
+							"level": 3,
+							"label": "足疗/按摩",
+							"value": 19070212
+						},
+						{
+							"level": 3,
+							"label": "其他便民服务",
+							"value": 19070213
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "家政服务",
+					"value": 190703,
+					"children": [
+						{
+							"level": 3,
+							"label": "保洁",
+							"value": 19070301
+						},
+						{
+							"level": 3,
+							"label": "保姆/月嫂",
+							"value": 19070302
+						},
+						{
+							"level": 3,
+							"label": "其他家政服务",
+							"value": 19070303
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "护养服务",
+					"value": 190704,
+					"children": [
+						{
+							"level": 3,
+							"label": "月子中心",
+							"value": 19070401
+						},
+						{
+							"level": 3,
+							"label": "产后护理",
+							"value": 19070402
+						},
+						{
+							"level": 3,
+							"label": "养老院",
+							"value": 19070403
+						},
+						{
+							"level": 3,
+							"label": "其他护养服务",
+							"value": 19070404
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "摄影",
+					"value": 190705,
+					"children": [
+						{
+							"level": 3,
+							"label": "婚纱摄影",
+							"value": 19070501
+						},
+						{
+							"level": 3,
+							"label": "儿童摄影",
+							"value": 19070502
+						},
+						{
+							"level": 3,
+							"label": "个性写真",
+							"value": 19070503
+						},
+						{
+							"level": 3,
+							"label": "全家福",
+							"value": 19070504
+						},
+						{
+							"level": 3,
+							"label": "证件照",
+							"value": 19070505
+						},
+						{
+							"level": 3,
+							"label": "照片冲洗",
+							"value": 19070506
+						},
+						{
+							"level": 3,
+							"label": "其他摄影",
+							"value": 19070507
+						},
+						{
+							"level": 3,
+							"label": "孕产摄影",
+							"value": 19070508
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "美容美发",
+					"value": 190706,
+					"children": [
+						{
+							"level": 3,
+							"label": "美发/美甲",
+							"value": 19070601
+						},
+						{
+							"level": 3,
+							"label": "美容/SPA",
+							"value": 19070602
+						},
+						{
+							"level": 3,
+							"label": "物理丰胸",
+							"value": 19070603
+						},
+						{
+							"level": 3,
+							"label": "物理减肥",
+							"value": 19070604
+						},
+						{
+							"level": 3,
+							"label": "其他美容美发",
+							"value": 19070605
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "回收买卖",
+					"value": 190707,
+					"children": [
+						{
+							"level": 3,
+							"label": "药品回收买卖",
+							"value": 19070703
+						},
+						{
+							"level": 3,
+							"label": "奢侈品回收买卖",
+							"value": 19070701
+						},
+						{
+							"level": 3,
+							"label": "酒水回收买卖",
+							"value": 19070702
+						},
+						{
+							"level": 3,
+							"label": "数码产品回收买卖",
+							"value": 19070704
+						},
+						{
+							"level": 3,
+							"label": "综合回收买卖",
+							"value": 19070705
+						},
+						{
+							"level": 3,
+							"label": "其他回收买卖",
+							"value": 19070706
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "租赁服务",
+					"value": 190708,
+					"children": [
+						{
+							"level": 3,
+							"label": "机械设备租赁",
+							"value": 19070801
+						},
+						{
+							"level": 3,
+							"label": "办公设备租赁",
+							"value": 19070802
+						},
+						{
+							"level": 3,
+							"label": "庆典会展租赁",
+							"value": 19070803
+						},
+						{
+							"level": 3,
+							"label": "服装租赁",
+							"value": 19070804
+						},
+						{
+							"level": 3,
+							"label": "家居租赁",
+							"value": 19070805
+						},
+						{
+							"level": 3,
+							"label": "空调租赁",
+							"value": 19070806
+						},
+						{
+							"level": 3,
+							"label": "户外装备租赁",
+							"value": 19070807
+						},
+						{
+							"level": 3,
+							"label": "移动厕所租赁",
+							"value": 19070808
+						},
+						{
+							"level": 3,
+							"label": "书籍租赁",
+							"value": 19070809
+						},
+						{
+							"level": 3,
+							"label": "其他租赁服务",
+							"value": 19070810
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "婚恋服务",
+					"value": 190710,
+					"children": [
+						{
+							"level": 3,
+							"label": "婚恋服务",
+							"value": 19071001
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "配送服务",
+					"value": 190711,
+					"children": [
+						{
+							"level": 3,
+							"label": "配送服务",
+							"value": 19071101
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "移民服务",
+					"value": 190712,
+					"children": [
+						{
+							"level": 3,
+							"label": "移民服务",
+							"value": 19071201
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "情感咨询",
+					"value": 190713,
+					"children": [
+						{
+							"level": 3,
+							"label": "情感咨询",
+							"value": 19071301
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "其他生活服务",
+					"value": 190714,
+					"children": [
+						{
+							"level": 3,
+							"label": "其他生活服务",
+							"value": 19071401
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "结婚服务",
+					"value": 190715,
+					"children": [
+						{
+							"level": 3,
+							"label": "其他结婚服务",
+							"value": 19071505
+						},
+						{
+							"level": 3,
+							"label": "婚礼策划",
+							"value": 19071501
+						},
+						{
+							"level": 3,
+							"label": "一站式婚礼会所",
+							"value": 19071502
+						},
+						{
+							"level": 3,
+							"label": "婚纱及婚宴礼服",
+							"value": 19071503
+						},
+						{
+							"level": 3,
+							"label": "婚嫁平台",
+							"value": 19071504
+						}
+					]
+				}
+			]
+		},
+		{
+			"level": 1,
+			"label": "房地产",
+			"value": 1908,
+			"children": [
+				{
+					"level": 2,
+					"label": "房地产开发商",
+					"value": 190801,
+					"children": [
+						{
+							"level": 3,
+							"label": "国内房地产开发商",
+							"value": 19080101
+						},
+						{
+							"level": 3,
+							"label": "海外房地产开发商",
+							"value": 19080102
+						},
+						{
+							"level": 3,
+							"label": "其他房地产开发商",
+							"value": 19080103
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "房地产中介",
+					"value": 190802,
+					"children": [
+						{
+							"level": 3,
+							"label": "其他房地产中介",
+							"value": 19080205
+						},
+						{
+							"level": 3,
+							"label": "住房中介（公司）",
+							"value": 19080201
+						},
+						{
+							"level": 3,
+							"label": "住房中介（个人）",
+							"value": 19080202
+						},
+						{
+							"level": 3,
+							"label": "商业地产中介",
+							"value": 19080203
+						},
+						{
+							"level": 3,
+							"label": "海外房地产中介",
+							"value": 19080204
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "物业管理公司",
+					"value": 190803,
+					"children": [
+						{
+							"level": 3,
+							"label": "物业管理公司",
+							"value": 19080301
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "房地产销售代理",
+					"value": 190804,
+					"children": [
+						{
+							"level": 3,
+							"label": "房地产销售代理",
+							"value": 19080401
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "其他房地产",
+					"value": 190805,
+					"children": [
+						{
+							"level": 3,
+							"label": "其他房地产",
+							"value": 19080501
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "房地产综合服务平台",
+					"value": 190806,
+					"children": [
+						{
+							"level": 3,
+							"label": "房地产综合服务平台",
+							"value": 19080601
+						}
+					]
+				}
+			]
+		},
+		{
+			"level": 1,
+			"label": "家居建材",
+			"value": 1909,
+			"children": [
+				{
+					"level": 2,
+					"label": "家装主材",
+					"value": 190901,
+					"children": [
+						{
+							"level": 3,
+							"label": "家装主材",
+							"value": 19090101
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "五金电工",
+					"value": 190902,
+					"children": [
+						{
+							"level": 3,
+							"label": "五金电工",
+							"value": 19090201
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "装修设计",
+					"value": 190903,
+					"children": [
+						{
+							"level": 3,
+							"label": "综合装修",
+							"value": 19090303
+						},
+						{
+							"level": 3,
+							"label": "商务办公装修",
+							"value": 19090301
+						},
+						{
+							"level": 3,
+							"label": "家庭装修",
+							"value": 19090302
+						},
+						{
+							"level": 3,
+							"label": "其他装修设计",
+							"value": 19090304
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "家具",
+					"value": 190904,
+					"children": [
+						{
+							"level": 3,
+							"label": "家具",
+							"value": 19090401
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "家居饰品",
+					"value": 190905,
+					"children": [
+						{
+							"level": 3,
+							"label": "家居饰品",
+							"value": 19090501
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "其他家居建材",
+					"value": 190906,
+					"children": [
+						{
+							"level": 3,
+							"label": "其他家居建材",
+							"value": 19090601
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "日用百货",
+					"value": 190907,
+					"children": [
+						{
+							"level": 3,
+							"label": "日用百货",
+							"value": 19090701
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "装修环境治理",
+					"value": 190908,
+					"children": [
+						{
+							"level": 3,
+							"label": "装修环境治理",
+							"value": 19090801
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "家装辅材",
+					"value": 190909,
+					"children": [
+						{
+							"level": 3,
+							"label": "家装辅材",
+							"value": 19090901
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "建筑工程",
+					"value": 190910,
+					"children": [
+						{
+							"level": 3,
+							"label": "建筑工程",
+							"value": 19091001
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "家居建材综合服务平台",
+					"value": 190911,
+					"children": [
+						{
+							"level": 3,
+							"label": "家居建材综合服务平台",
+							"value": 19091101
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "家居建材电商",
+					"value": 190912,
+					"children": [
+						{
+							"level": 3,
+							"label": "家居建材电商",
+							"value": 19091201
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "家居建材线下零售",
+					"value": 190913,
+					"children": [
+						{
+							"level": 3,
+							"label": "家居建材线下零售",
+							"value": 19091301
+						}
+					]
+				}
+			]
+		},
+		{
+			"level": 1,
+			"label": "教育培训",
+			"value": 1910,
+			"children": [
+				{
+					"level": 2,
+					"label": "幼儿教育",
+					"value": 191001,
+					"children": [
+						{
+							"level": 3,
+							"label": "胎教",
+							"value": 19100101
+						},
+						{
+							"level": 3,
+							"label": "早教",
+							"value": 19100102
+						},
+						{
+							"level": 3,
+							"label": "学前教育",
+							"value": 19100103
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "中小学教育",
+					"value": 191002,
+					"children": [
+						{
+							"level": 3,
+							"label": "小学教育",
+							"value": 19100201
+						},
+						{
+							"level": 3,
+							"label": "初中教育",
+							"value": 19100202
+						},
+						{
+							"level": 3,
+							"label": "高中教育",
+							"value": 19100203
+						},
+						{
+							"level": 3,
+							"label": "其他中小学教育",
+							"value": 19100204
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "学历教育",
+					"value": 191003,
+					"children": [
+						{
+							"level": 3,
+							"label": "专科",
+							"value": 19100301
+						},
+						{
+							"level": 3,
+							"label": "本科",
+							"value": 19100302
+						},
+						{
+							"level": 3,
+							"label": "研究生",
+							"value": 19100304
+						},
+						{
+							"level": 3,
+							"label": "成人学历",
+							"value": 19100305
+						},
+						{
+							"level": 3,
+							"label": "其他学历教育",
+							"value": 19100306
+						},
+						{
+							"level": 3,
+							"label": "MBA/EMBA",
+							"value": 19100303
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "语言及留学",
+					"value": 191004,
+					"children": [
+						{
+							"level": 3,
+							"label": "少儿英语培训",
+							"value": 19100401
+						},
+						{
+							"level": 3,
+							"label": "成人英语培训",
+							"value": 19100402
+						},
+						{
+							"level": 3,
+							"label": "汉语培训",
+							"value": 19100403
+						},
+						{
+							"level": 3,
+							"label": "其他语言培训",
+							"value": 19100405
+						},
+						{
+							"level": 3,
+							"label": "留学服务",
+							"value": 19100406
+						},
+						{
+							"level": 3,
+							"label": "小语种培训",
+							"value": 19100404
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "兴趣培训",
+					"value": 191005,
+					"children": [
+						{
+							"level": 3,
+							"label": "音乐乐器",
+							"value": 19100501
+						},
+						{
+							"level": 3,
+							"label": "书法美术",
+							"value": 19100502
+						},
+						{
+							"level": 3,
+							"label": "舞蹈",
+							"value": 19100503
+						},
+						{
+							"level": 3,
+							"label": "体育",
+							"value": 19100504
+						},
+						{
+							"level": 3,
+							"label": "其他兴趣培训",
+							"value": 19100505
+						},
+						{
+							"level": 3,
+							"label": "少儿编程与思维",
+							"value": 19100506
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "职业技能",
+					"value": 191006,
+					"children": [
+						{
+							"level": 3,
+							"label": "厨师餐饮",
+							"value": 19100601
+						},
+						{
+							"level": 3,
+							"label": "职业高级证书培训",
+							"value": 19100602
+						},
+						{
+							"level": 3,
+							"label": "IT技能培训",
+							"value": 19100603
+						},
+						{
+							"level": 3,
+							"label": "消防建筑类培训",
+							"value": 19100604
+						},
+						{
+							"level": 3,
+							"label": "公务员考试培训",
+							"value": 19100605
+						},
+						{
+							"level": 3,
+							"label": "其他职业技能",
+							"value": 19100606
+						},
+						{
+							"level": 3,
+							"label": "汽车驾驶",
+							"value": 19100607
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "企业管理培训",
+					"value": 191007,
+					"children": [
+						{
+							"level": 3,
+							"label": "管理经营培训",
+							"value": 19100701
+						},
+						{
+							"level": 3,
+							"label": "拓展培训",
+							"value": 19100702
+						},
+						{
+							"level": 3,
+							"label": "其他企业管理培训",
+							"value": 19100703
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "特殊人群教育",
+					"value": 191008,
+					"children": [
+						{
+							"level": 3,
+							"label": "特殊人群教育",
+							"value": 19100801
+						},
+						{
+							"level": 3,
+							"label": "其他教育培训",
+							"value": 19100802
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "职业资格考证培训",
+					"value": 191009,
+					"children": [
+						{
+							"level": 3,
+							"label": "公务员",
+							"value": 19100901
+						},
+						{
+							"level": 3,
+							"label": "营养健康",
+							"value": 19100902
+						},
+						{
+							"level": 3,
+							"label": "教师心理",
+							"value": 19100903
+						},
+						{
+							"level": 3,
+							"label": "消防建筑",
+							"value": 19100904
+						},
+						{
+							"level": 3,
+							"label": "金融财会",
+							"value": 19100905
+						},
+						{
+							"level": 3,
+							"label": "其他职业资格考证培训",
+							"value": 19100906
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "其他教育培训",
+					"value": 191010,
+					"children": [
+						{
+							"level": 3,
+							"label": "其他教育培训",
+							"value": 19101001
+						}
+					]
+				}
+			]
+		},
+		{
+			"level": 1,
+			"label": "出行旅游",
+			"value": 1911,
+			"children": [
+				{
+					"level": 2,
+					"label": "景点",
+					"value": 191101,
+					"children": [
+						{
+							"level": 3,
+							"label": "旅游景点",
+							"value": 19110101
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "酒店住宿",
+					"value": 191102,
+					"children": [
+						{
+							"level": 3,
+							"label": "酒店宾馆",
+							"value": 19110201
+						},
+						{
+							"level": 3,
+							"label": "民宿客栈",
+							"value": 19110202
+						},
+						{
+							"level": 3,
+							"label": "商务会议",
+							"value": 19110203
+						},
+						{
+							"level": 3,
+							"label": "其他酒店住宿",
+							"value": 19110204
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "OTA（onlien travel Agent）",
+					"value": 191103,
+					"children": [
+						{
+							"level": 3,
+							"label": "OTA",
+							"value": 19110301
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "旅行社",
+					"value": 191104,
+					"children": [
+						{
+							"level": 3,
+							"label": "本地周边游",
+							"value": 19110401
+						},
+						{
+							"level": 3,
+							"label": "国内线路游",
+							"value": 19110402
+						},
+						{
+							"level": 3,
+							"label": "境外游",
+							"value": 19110403
+						},
+						{
+							"level": 3,
+							"label": "会议旅游",
+							"value": 19110404
+						},
+						{
+							"level": 3,
+							"label": "签证服务",
+							"value": 19110405
+						},
+						{
+							"level": 3,
+							"label": "综合旅游",
+							"value": 19110406
+						},
+						{
+							"level": 3,
+							"label": "其他旅行社",
+							"value": 19110407
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "航空公司",
+					"value": 191105,
+					"children": [
+						{
+							"level": 3,
+							"label": "航空公司",
+							"value": 19110501
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "公路客运公司",
+					"value": 191106,
+					"children": [
+						{
+							"level": 3,
+							"label": "公路客运公司",
+							"value": 19110601
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "邮轮",
+					"value": 191107,
+					"children": [
+						{
+							"level": 3,
+							"label": "邮轮",
+							"value": 19110701
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "商旅票务代理",
+					"value": 191108,
+					"children": [
+						{
+							"level": 3,
+							"label": "商旅票务代理",
+							"value": 19110801
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "城市出行",
+					"value": 191109,
+					"children": [
+						{
+							"level": 3,
+							"label": "汽车租赁",
+							"value": 19110901
+						},
+						{
+							"level": 3,
+							"label": "打车/专车/接机",
+							"value": 19110902
+						},
+						{
+							"level": 3,
+							"label": "自行车/非机动车租赁",
+							"value": 19110903
+						},
+						{
+							"level": 3,
+							"label": "其他城市出行",
+							"value": 19110904
+						},
+						{
+							"level": 3,
+							"label": "公共交通票务",
+							"value": 19110905
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "其他出行旅游",
+					"value": 191110,
+					"children": [
+						{
+							"level": 3,
+							"label": "其他出行旅游",
+							"value": 19111001
+						}
+					]
+				}
+			]
+		},
+		{
+			"level": 1,
+			"label": "社会公共",
+			"value": 1912,
+			"children": [
+				{
+					"level": 2,
+					"label": "政府政务文化旅游",
+					"value": 191201,
+					"children": [
+						{
+							"level": 3,
+							"label": "政府政务文化旅游",
+							"value": 19120101
+						},
+						{
+							"level": 3,
+							"label": "科教卫生",
+							"value": 19120102
+						},
+						{
+							"level": 3,
+							"label": "环境安全",
+							"value": 19120103
+						},
+						{
+							"level": 3,
+							"label": "其他政府政务",
+							"value": 19120104
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "社会组织",
+					"value": 191202,
+					"children": [
+						{
+							"level": 3,
+							"label": "社会组织",
+							"value": 19120201
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "市政建设",
+					"value": 191203,
+					"children": [
+						{
+							"level": 3,
+							"label": "市政建设",
+							"value": 19120301
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "宗教",
+					"value": 191204,
+					"children": [
+						{
+							"level": 3,
+							"label": "宗教机构",
+							"value": 19120401
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "其他社会公共",
+					"value": 191205,
+					"children": [
+						{
+							"level": 3,
+							"label": "其他社会公共",
+							"value": 19120501
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "政府政务科教卫生",
+					"value": 191206,
+					"children": [
+						{
+							"level": 3,
+							"label": "政府政务科教卫生",
+							"value": 19120601
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "政府政务环境安全",
+					"value": 191207,
+					"children": [
+						{
+							"level": 3,
+							"label": "政府政务环境安全",
+							"value": 19120701
+						}
+					]
+				}
+			]
+		},
+		{
+			"level": 1,
+			"label": "游戏",
+			"value": 1913,
+			"children": [
+				{
+					"level": 2,
+					"label": "休闲益智",
+					"value": 191301,
+					"children": [
+						{
+							"level": 3,
+							"label": "消除",
+							"value": 19130101
+						},
+						{
+							"level": 3,
+							"label": "解谜",
+							"value": 19130102
+						},
+						{
+							"level": 3,
+							"label": "其他休闲益智",
+							"value": 19130103
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "棋牌桌游",
+					"value": 191302,
+					"children": [
+						{
+							"level": 3,
+							"label": "棋牌桌游",
+							"value": 19130201
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "角色扮演",
+					"value": 191303,
+					"children": [
+						{
+							"level": 3,
+							"label": "MMO",
+							"value": 19130301
+						},
+						{
+							"level": 3,
+							"label": "沙盒",
+							"value": 19130302
+						},
+						{
+							"level": 3,
+							"label": "其他角色扮演",
+							"value": 19130303
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "动作射击",
+					"value": 191304,
+					"children": [
+						{
+							"level": 3,
+							"label": "动作射击",
+							"value": 19130401
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "竞速体育",
+					"value": 191305,
+					"children": [
+						{
+							"level": 3,
+							"label": "竞速体育",
+							"value": 19130501
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "经营养成",
+					"value": 191306,
+					"children": [
+						{
+							"level": 3,
+							"label": "经营养成",
+							"value": 19130601
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "策略塔防",
+					"value": 191307,
+					"children": [
+						{
+							"level": 3,
+							"label": "策略塔防",
+							"value": 19130701
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "MOBA",
+					"value": 191308,
+					"children": [
+						{
+							"level": 3,
+							"label": "MOBA",
+							"value": 19130801
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "其他游戏",
+					"value": 191309,
+					"children": [
+						{
+							"level": 3,
+							"label": "其他游戏",
+							"value": 19130901
+						}
+					]
+				}
+			]
+		},
+		{
+			"level": 1,
+			"label": "零售",
+			"value": 1914,
+			"children": [
+				{
+					"level": 2,
+					"label": "综合类2B电商",
+					"value": 191401,
+					"children": [
+						{
+							"level": 3,
+							"label": "综合类2B电商",
+							"value": 19140101
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "垂直类2B电商",
+					"value": 191402,
+					"children": [
+						{
+							"level": 3,
+							"label": "垂直类2B电商",
+							"value": 19140201
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "综合类2C电商",
+					"value": 191403,
+					"children": [
+						{
+							"level": 3,
+							"label": "综合类2C电商",
+							"value": 19140301
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "跨境类2C电商",
+					"value": 191404,
+					"children": [
+						{
+							"level": 3,
+							"label": "跨境类2C电商",
+							"value": 19140401
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "垂直类2C电商",
+					"value": 191405,
+					"children": [
+						{
+							"level": 3,
+							"label": "其他垂直类2C电商",
+							"value": 19140511
+						},
+						{
+							"level": 3,
+							"label": "3C及家电2C",
+							"value": 19140501
+						},
+						{
+							"level": 3,
+							"label": "家居家装主材2C",
+							"value": 19140502
+						},
+						{
+							"level": 3,
+							"label": "美容服饰2C",
+							"value": 19140503
+						},
+						{
+							"level": 3,
+							"label": "食品饮料（非生鲜）2C",
+							"value": 19140504
+						},
+						{
+							"level": 3,
+							"label": "生鲜2C",
+							"value": 19140505
+						},
+						{
+							"level": 3,
+							"label": "母婴儿童2C",
+							"value": 19140506
+						},
+						{
+							"level": 3,
+							"label": "烟酒2C",
+							"value": 19140507
+						},
+						{
+							"level": 3,
+							"label": "宠物2C",
+							"value": 19140508
+						},
+						{
+							"level": 3,
+							"label": "医药2C",
+							"value": 19140509
+						},
+						{
+							"level": 3,
+							"label": "文化体育类2C",
+							"value": 19140510
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "综合类线下零售",
+					"value": 191406,
+					"children": [
+						{
+							"level": 3,
+							"label": "其他综合类线下零售",
+							"value": 19140604
+						},
+						{
+							"level": 3,
+							"label": "综合超市",
+							"value": 19140602
+						},
+						{
+							"level": 3,
+							"label": "商场/购物中心",
+							"value": 19140601
+						},
+						{
+							"level": 3,
+							"label": "便利店",
+							"value": 19140603
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "跨境类线下零售",
+					"value": 191407,
+					"children": [
+						{
+							"level": 3,
+							"label": "汽车",
+							"value": 19140712
+						},
+						{
+							"level": 3,
+							"label": "医药",
+							"value": 19140710
+						},
+						{
+							"level": 3,
+							"label": "其他垂直类线下零售",
+							"value": 19140713
+						},
+						{
+							"level": 3,
+							"label": "3C及家电",
+							"value": 19140701
+						},
+						{
+							"level": 3,
+							"label": "食品饮料（非生鲜）",
+							"value": 19140704
+						},
+						{
+							"level": 3,
+							"label": "生鲜",
+							"value": 19140705
+						},
+						{
+							"level": 3,
+							"label": "母婴儿童",
+							"value": 19140706
+						},
+						{
+							"level": 3,
+							"label": "宠物",
+							"value": 19140708
+						},
+						{
+							"level": 3,
+							"label": "跨境类线下零售",
+							"value": 19140709
+						},
+						{
+							"level": 3,
+							"label": "文化体育",
+							"value": 19140711
+						},
+						{
+							"level": 3,
+							"label": "美容服饰",
+							"value": 19140703
+						},
+						{
+							"level": 3,
+							"label": "家居装修",
+							"value": 19140702
+						},
+						{
+							"level": 3,
+							"label": "烟酒",
+							"value": 19140707
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "其他零售",
+					"value": 191408,
+					"children": [
+						{
+							"level": 3,
+							"label": "其他零售",
+							"value": 19140801
+						}
+					]
+				}
+			]
+		},
+		{
+			"level": 1,
+			"label": "交通工具",
+			"value": 1915,
+			"children": [
+				{
+					"level": 2,
+					"label": "飞机厂商",
+					"value": 191501,
+					"children": [
+						{
+							"level": 3,
+							"label": "飞机厂商",
+							"value": 19150101
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "船舶厂商",
+					"value": 191502,
+					"children": [
+						{
+							"level": 3,
+							"label": "船舶厂商",
+							"value": 19150201
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "摩托车厂商",
+					"value": 191503,
+					"children": [
+						{
+							"level": 3,
+							"label": "摩托车厂商",
+							"value": 19150301
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "非机动车厂商",
+					"value": 191504,
+					"children": [
+						{
+							"level": 3,
+							"label": "自行车厂商",
+							"value": 19150401
+						},
+						{
+							"level": 3,
+							"label": "电动车厂商",
+							"value": 19150402
+						},
+						{
+							"level": 3,
+							"label": "其他非机动车厂商",
+							"value": 19150403
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "功能性车辆厂商",
+					"value": 191505,
+					"children": [
+						{
+							"level": 3,
+							"label": "功能性车辆厂商",
+							"value": 19150501
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "其他交通工具",
+					"value": 191506,
+					"children": [
+						{
+							"level": 3,
+							"label": "其他交通工具",
+							"value": 19150601
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "交通工具后市场",
+					"value": 191507,
+					"children": [
+						{
+							"level": 3,
+							"label": "交通工具后市场",
+							"value": 19150701
+						}
+					]
+				}
+			]
+		},
+		{
+			"level": 1,
+			"label": "汽车",
+			"value": 1916,
+			"children": [
+				{
+					"level": 2,
+					"label": "汽车厂商",
+					"value": 191601,
+					"children": [
+						{
+							"level": 3,
+							"label": "小型车",
+							"value": 19160101
+						},
+						{
+							"level": 3,
+							"label": "SUV",
+							"value": 19160102
+						},
+						{
+							"level": 3,
+							"label": "厢型车",
+							"value": 19160103
+						},
+						{
+							"level": 3,
+							"label": "跑车",
+							"value": 19160104
+						},
+						{
+							"level": 3,
+							"label": "其他汽车厂商",
+							"value": 19160106
+						},
+						{
+							"level": 3,
+							"label": "大中型客车",
+							"value": 19160105
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "汽车经销商",
+					"value": 191602,
+					"children": [
+						{
+							"level": 3,
+							"label": "汽车经销商",
+							"value": 19160201
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "二手车线下零售",
+					"value": 191603,
+					"children": [
+						{
+							"level": 3,
+							"label": "线上二手汽车交易",
+							"value": 19160301
+						},
+						{
+							"level": 3,
+							"label": "二手车线下零售",
+							"value": 19160302
+						},
+						{
+							"level": 3,
+							"label": "其他汽车二手交易",
+							"value": 19160303
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "汽车后市场",
+					"value": 191604,
+					"children": [
+						{
+							"level": 3,
+							"label": "汽车改装",
+							"value": 19160405
+						},
+						{
+							"level": 3,
+							"label": "汽车清洁",
+							"value": 19160401
+						},
+						{
+							"level": 3,
+							"label": "汽车零配件",
+							"value": 19160402
+						},
+						{
+							"level": 3,
+							"label": "汽车配饰",
+							"value": 19160403
+						},
+						{
+							"level": 3,
+							"label": "汽车保养维修",
+							"value": 19160404
+						},
+						{
+							"level": 3,
+							"label": "其他车后市场",
+							"value": 19160406
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "其他汽车",
+					"value": 191605,
+					"children": [
+						{
+							"level": 3,
+							"label": "其他汽车",
+							"value": 19160501
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "汽车综合服务平台",
+					"value": 191606,
+					"children": [
+						{
+							"level": 3,
+							"label": "汽车综合服务平台",
+							"value": 19160601
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "新车线下零售",
+					"value": 191607,
+					"children": [
+						{
+							"level": 3,
+							"label": "新车线下零售",
+							"value": 19160701
+						}
+					]
+				}
+			]
+		},
+		{
+			"level": 1,
+			"label": "农林牧畜渔",
+			"value": 1917,
+			"children": [
+				{
+					"level": 2,
+					"label": "农业",
+					"value": 191701,
+					"children": [
+						{
+							"level": 3,
+							"label": "农业",
+							"value": 19170101
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "林业",
+					"value": 191702,
+					"children": [
+						{
+							"level": 3,
+							"label": "林业",
+							"value": 19170201
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "渔业",
+					"value": 191703,
+					"children": [
+						{
+							"level": 3,
+							"label": "渔业",
+							"value": 19170301
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "畜牧业",
+					"value": 191704,
+					"children": [
+						{
+							"level": 3,
+							"label": "畜牧业",
+							"value": 19170401
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "农林服务",
+					"value": 191705,
+					"children": [
+						{
+							"level": 3,
+							"label": "农林服务",
+							"value": 19170501
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "农产品加工",
+					"value": 191706,
+					"children": [
+						{
+							"level": 3,
+							"label": "农产品加工",
+							"value": 19170601
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "化肥及农药",
+					"value": 191707,
+					"children": [
+						{
+							"level": 3,
+							"label": "化肥及农药",
+							"value": 19170701
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "其他农林牧畜渔",
+					"value": 191708,
+					"children": [
+						{
+							"level": 3,
+							"label": "其他农林牧畜渔",
+							"value": 19170801
+						}
+					]
+				}
+			]
+		},
+		{
+			"level": 1,
+			"label": "化工及能源",
+			"value": 1918,
+			"children": [
+				{
+					"level": 2,
+					"label": "化工制品",
+					"value": 191801,
+					"children": [
+						{
+							"level": 3,
+							"label": "化工制品",
+							"value": 19180101
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "消毒产品",
+					"value": 191802,
+					"children": [
+						{
+							"level": 3,
+							"label": "消毒产品",
+							"value": 19180201
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "危险化学品",
+					"value": 191803,
+					"children": [
+						{
+							"level": 3,
+							"label": "危险化学品",
+							"value": 19180301
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "食品化工材料",
+					"value": 191804,
+					"children": [
+						{
+							"level": 3,
+							"label": "食品化工材料",
+							"value": 19180401
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "化工其它",
+					"value": 191805,
+					"children": [
+						{
+							"level": 3,
+							"label": "化工其它",
+							"value": 19180501
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "燃料能源",
+					"value": 191806,
+					"children": [
+						{
+							"level": 3,
+							"label": "燃料能源",
+							"value": 19180601
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "电力能源",
+					"value": 191807,
+					"children": [
+						{
+							"level": 3,
+							"label": "电力能源",
+							"value": 19180701
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "新能源",
+					"value": 191808,
+					"children": [
+						{
+							"level": 3,
+							"label": "新能源",
+							"value": 19180801
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "矿产资源",
+					"value": 191809,
+					"children": [
+						{
+							"level": 3,
+							"label": "矿产资源",
+							"value": 19180901
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "污染处理",
+					"value": 191810,
+					"children": [
+						{
+							"level": 3,
+							"label": "环保厕所",
+							"value": 19181001
+						},
+						{
+							"level": 3,
+							"label": "垃圾处理",
+							"value": 19181002
+						},
+						{
+							"level": 3,
+							"label": "水污染处理",
+							"value": 19181003
+						},
+						{
+							"level": 3,
+							"label": "土壤污染处理",
+							"value": 19181004
+						},
+						{
+							"level": 3,
+							"label": "空气污染处理",
+							"value": 19181005
+						},
+						{
+							"level": 3,
+							"label": "噪音污染处理",
+							"value": 19181006
+						},
+						{
+							"level": 3,
+							"label": "消毒灭菌",
+							"value": 19181007
+						},
+						{
+							"level": 3,
+							"label": "环境评测",
+							"value": 19181008
+						},
+						{
+							"level": 3,
+							"label": "其他污染处理",
+							"value": 19181009
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "废旧回收",
+					"value": 191811,
+					"children": [
+						{
+							"level": 3,
+							"label": "机械电子设备回收",
+							"value": 19181101
+						},
+						{
+							"level": 3,
+							"label": "化工废料回收",
+							"value": 19181102
+						},
+						{
+							"level": 3,
+							"label": "建筑废料回收",
+							"value": 19181103
+						},
+						{
+							"level": 3,
+							"label": "塑料橡胶回收",
+							"value": 19181104
+						},
+						{
+							"level": 3,
+							"label": "金属资源回收",
+							"value": 19181105
+						},
+						{
+							"level": 3,
+							"label": "纸品回收",
+							"value": 19181106
+						},
+						{
+							"level": 3,
+							"label": "纺织品与皮革回收",
+							"value": 19181107
+						},
+						{
+							"level": 3,
+							"label": "综合废旧回收",
+							"value": 19181108
+						},
+						{
+							"level": 3,
+							"label": "拆除工程",
+							"value": 19181109
+						},
+						{
+							"level": 3,
+							"label": "其他废旧回收",
+							"value": 19181110
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "节能",
+					"value": 191812,
+					"children": [
+						{
+							"level": 3,
+							"label": "节能",
+							"value": 19181201
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "其他化工及能源",
+					"value": 191813,
+					"children": [
+						{
+							"level": 3,
+							"label": "其他化工及能源",
+							"value": 19181301
+						}
+					]
+				}
+			]
+		},
+		{
+			"level": 1,
+			"label": "电子电工",
+			"value": 1919,
+			"children": [
+				{
+					"level": 2,
+					"label": "电子器件",
+					"value": 191901,
+					"children": [
+						{
+							"level": 3,
+							"label": "电子器件",
+							"value": 19190101
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "仪器仪表",
+					"value": 191902,
+					"children": [
+						{
+							"level": 3,
+							"label": "仪器仪表",
+							"value": 19190201
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "电工电气",
+					"value": 191903,
+					"children": [
+						{
+							"level": 3,
+							"label": "电工电气",
+							"value": 19190301
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "电工机械",
+					"value": 191904,
+					"children": [
+						{
+							"level": 3,
+							"label": "电工机械",
+							"value": 19190401
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "其他电子电工",
+					"value": 191905,
+					"children": [
+						{
+							"level": 3,
+							"label": "其他电子电工",
+							"value": 19190501
+						}
+					]
+				}
+			]
+		},
+		{
+			"level": 1,
+			"label": "机械设备",
+			"value": 1920,
+			"children": [
+				{
+					"level": 2,
+					"label": "通用机械设备",
+					"value": 192001,
+					"children": [
+						{
+							"level": 3,
+							"label": "通用机械设备",
+							"value": 19200101
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "农林机械",
+					"value": 192002,
+					"children": [
+						{
+							"level": 3,
+							"label": "农林机械",
+							"value": 19200201
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "矿产机械",
+					"value": 192003,
+					"children": [
+						{
+							"level": 3,
+							"label": "矿产机械",
+							"value": 19200301
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "建筑工程机械",
+					"value": 192004,
+					"children": [
+						{
+							"level": 3,
+							"label": "建筑工程机械",
+							"value": 19200401
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "化工机械",
+					"value": 192005,
+					"children": [
+						{
+							"level": 3,
+							"label": "化工机械",
+							"value": 19200501
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "木材石材加工机械",
+					"value": 192006,
+					"children": [
+						{
+							"level": 3,
+							"label": "木材石材加工机械",
+							"value": 19200601
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "机床机械",
+					"value": 192007,
+					"children": [
+						{
+							"level": 3,
+							"label": "机床机械",
+							"value": 19200701
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "商用设备",
+					"value": 192008,
+					"children": [
+						{
+							"level": 3,
+							"label": "商用设备",
+							"value": 19200801
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "基础机械",
+					"value": 192009,
+					"children": [
+						{
+							"level": 3,
+							"label": "基础机械",
+							"value": 19200901
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "工具配件",
+					"value": 192010,
+					"children": [
+						{
+							"level": 3,
+							"label": "工具配件",
+							"value": 19201001
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "食品机械",
+					"value": 192011,
+					"children": [
+						{
+							"level": 3,
+							"label": "食品机械",
+							"value": 19201101
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "清洁通风设备",
+					"value": 192013,
+					"children": [
+						{
+							"level": 3,
+							"label": "清洁通风设备",
+							"value": 19201301
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "其他机械设备",
+					"value": 192014,
+					"children": [
+						{
+							"level": 3,
+							"label": "其他机械设备",
+							"value": 19201401
+						}
+					]
+				}
+			]
+		},
+		{
+			"level": 1,
+			"label": "文体娱乐",
+			"value": 1921,
+			"children": [
+				{
+					"level": 2,
+					"label": "演出票务及周边",
+					"value": 192101,
+					"children": [
+						{
+							"level": 3,
+							"label": "演出周边",
+							"value": 19210105
+						},
+						{
+							"level": 3,
+							"label": "杂技马戏木偶",
+							"value": 19210104
+						},
+						{
+							"level": 3,
+							"label": "演唱会/音乐会",
+							"value": 19210101
+						},
+						{
+							"level": 3,
+							"label": "歌舞剧",
+							"value": 19210103
+						},
+						{
+							"level": 3,
+							"label": "电影节",
+							"value": 19210106
+						},
+						{
+							"level": 3,
+							"label": "展览",
+							"value": 19210107
+						},
+						{
+							"level": 3,
+							"label": "话剧戏曲相声",
+							"value": 19210102
+						},
+						{
+							"level": 3,
+							"label": "其他演出票务及周边",
+							"value": 19210108
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "文化艺术收藏品",
+					"value": 192102,
+					"children": [
+						{
+							"level": 3,
+							"label": "特殊材质工艺品",
+							"value": 19210205
+						},
+						{
+							"level": 3,
+							"label": "邮票",
+							"value": 19210201
+						},
+						{
+							"level": 3,
+							"label": "纪念币纪念钞",
+							"value": 19210202
+						},
+						{
+							"level": 3,
+							"label": "纪念章",
+							"value": 19210203
+						},
+						{
+							"level": 3,
+							"label": "字画",
+							"value": 19210204
+						},
+						{
+							"level": 3,
+							"label": "手工制工艺品",
+							"value": 19210206
+						},
+						{
+							"level": 3,
+							"label": "刀剑工艺品",
+							"value": 19210207
+						},
+						{
+							"level": 3,
+							"label": "文物鉴定",
+							"value": 19210208
+						},
+						{
+							"level": 3,
+							"label": "其他文化艺术收藏品",
+							"value": 19210209
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "文具玩具礼品",
+					"value": 192103,
+					"children": [
+						{
+							"level": 3,
+							"label": "玩具",
+							"value": 19210301
+						},
+						{
+							"level": 3,
+							"label": "桌游及动漫周边",
+							"value": 19210302
+						},
+						{
+							"level": 3,
+							"label": "鲜花",
+							"value": 19210303
+						},
+						{
+							"level": 3,
+							"label": "文具",
+							"value": 19210304
+						},
+						{
+							"level": 3,
+							"label": "其他文具玩具礼品",
+							"value": 19210305
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "乐器",
+					"value": 192104,
+					"children": [
+						{
+							"level": 3,
+							"label": "民族乐器",
+							"value": 19210401
+						},
+						{
+							"level": 3,
+							"label": "民族西洋乐器",
+							"value": 19210403
+						},
+						{
+							"level": 3,
+							"label": "其他乐器",
+							"value": 19210404
+						},
+						{
+							"level": 3,
+							"label": "西洋乐器",
+							"value": 19210402
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "室内娱乐",
+					"value": 192105,
+					"children": [
+						{
+							"level": 3,
+							"label": "电子游艺厅",
+							"value": 19210507
+						},
+						{
+							"level": 3,
+							"label": "桌游棋牌类",
+							"value": 19210501
+						},
+						{
+							"level": 3,
+							"label": "密室逃脱",
+							"value": 19210502
+						},
+						{
+							"level": 3,
+							"label": "KTV",
+							"value": 19210503
+						},
+						{
+							"level": 3,
+							"label": "迪厅",
+							"value": 19210504
+						},
+						{
+							"level": 3,
+							"label": "室内儿童游乐",
+							"value": 19210508
+						},
+						{
+							"level": 3,
+							"label": "网吧",
+							"value": 19210510
+						},
+						{
+							"level": 3,
+							"label": "其他室内娱乐",
+							"value": 19210512
+						},
+						{
+							"level": 3,
+							"label": "DIY及体验馆",
+							"value": 19210505
+						},
+						{
+							"level": 3,
+							"label": "电影院",
+							"value": 19210506
+						},
+						{
+							"level": 3,
+							"label": "轰趴馆",
+							"value": 19210509
+						},
+						{
+							"level": 3,
+							"label": "真人对抗游戏",
+							"value": 19210511
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "运动健身",
+					"value": 192106,
+					"children": [
+						{
+							"level": 3,
+							"label": "运动健身",
+							"value": 19210601
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "体育用品",
+					"value": 192107,
+					"children": [
+						{
+							"level": 3,
+							"label": "体育用品",
+							"value": 19210701
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "户外用品",
+					"value": 192108,
+					"children": [
+						{
+							"level": 3,
+							"label": "户外用品",
+							"value": 19210801
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "体育赛事及场馆",
+					"value": 192109,
+					"children": [
+						{
+							"level": 3,
+							"label": "体育赛事及周边",
+							"value": 19210901
+						},
+						{
+							"level": 3,
+							"label": "体育场馆",
+							"value": 19210902
+						},
+						{
+							"level": 3,
+							"label": "其他体育赛事及场馆",
+							"value": 19210903
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "园艺",
+					"value": 192110,
+					"children": [
+						{
+							"level": 3,
+							"label": "园艺",
+							"value": 19211001
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "彩票",
+					"value": 192111,
+					"children": [
+						{
+							"level": 3,
+							"label": "彩票资讯",
+							"value": 19211101
+						},
+						{
+							"level": 3,
+							"label": "彩票售卖",
+							"value": 19211102
+						},
+						{
+							"level": 3,
+							"label": "其他彩票",
+							"value": 19211103
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "会员卡券",
+					"value": 192112,
+					"children": [
+						{
+							"level": 3,
+							"label": "一般会员卡券",
+							"value": 19211201
+						},
+						{
+							"level": 3,
+							"label": "青年黑卡",
+							"value": 19211202
+						},
+						{
+							"level": 3,
+							"label": "其他会员卡券",
+							"value": 19211203
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "户外娱乐",
+					"value": 192113,
+					"children": [
+						{
+							"level": 3,
+							"label": "户外娱乐",
+							"value": 19211301
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "其他文体娱乐",
+					"value": 192114,
+					"children": [
+						{
+							"level": 3,
+							"label": "其他文体娱乐",
+							"value": 19211401
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "文体娱乐电商",
+					"value": 192115,
+					"children": [
+						{
+							"level": 3,
+							"label": "文体娱乐电商",
+							"value": 19211501
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "文体娱乐线下零售",
+					"value": 192116,
+					"children": [
+						{
+							"level": 3,
+							"label": "文体娱乐线下零售",
+							"value": 19211601
+						}
+					]
+				}
+			]
+		},
+		{
+			"level": 1,
+			"label": "传媒及内容",
+			"value": 1922,
+			"children": [
+				{
+					"level": 2,
+					"label": "电视台",
+					"value": 192201,
+					"children": [
+						{
+							"level": 3,
+							"label": "电视台",
+							"value": 19220101
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "广播台",
+					"value": 192202,
+					"children": [
+						{
+							"level": 3,
+							"label": "广播台",
+							"value": 19220201
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "影视音像制作",
+					"value": 192203,
+					"children": [
+						{
+							"level": 3,
+							"label": "影视音像制作",
+							"value": 19220301
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "书籍杂志",
+					"value": 192204,
+					"children": [
+						{
+							"level": 3,
+							"label": "书籍杂志",
+							"value": 19220401
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "新闻资讯",
+					"value": 192205,
+					"children": [
+						{
+							"level": 3,
+							"label": "新闻资讯",
+							"value": 19220501
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "综合资讯",
+					"value": 192206,
+					"children": [
+						{
+							"level": 3,
+							"label": "综合资讯",
+							"value": 19220601
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "垂直资讯",
+					"value": 192207,
+					"children": [
+						{
+							"level": 3,
+							"label": "文化体育资讯",
+							"value": 19220701
+						},
+						{
+							"level": 3,
+							"label": "旅游资讯",
+							"value": 19220702
+						},
+						{
+							"level": 3,
+							"label": "动漫资讯",
+							"value": 19220706
+						},
+						{
+							"level": 3,
+							"label": "摄影资讯",
+							"value": 19220707
+						},
+						{
+							"level": 3,
+							"label": "3C及家电资讯",
+							"value": 19220708
+						},
+						{
+							"level": 3,
+							"label": "家居装修资讯",
+							"value": 19220709
+						},
+						{
+							"level": 3,
+							"label": "美容服饰资讯",
+							"value": 19220710
+						},
+						{
+							"level": 3,
+							"label": "母婴儿童资讯",
+							"value": 19220711
+						},
+						{
+							"level": 3,
+							"label": "食品烹饪资讯",
+							"value": 19220712
+						},
+						{
+							"level": 3,
+							"label": "医疗资讯",
+							"value": 19220714
+						},
+						{
+							"level": 3,
+							"label": "其他垂直资讯",
+							"value": 19220715
+						},
+						{
+							"level": 3,
+							"label": "电商导购平台",
+							"value": 19220704
+						},
+						{
+							"level": 3,
+							"label": "房产资讯",
+							"value": 19220703
+						},
+						{
+							"level": 3,
+							"label": "汽车资讯",
+							"value": 19220705
+						},
+						{
+							"level": 3,
+							"label": "宠物资讯",
+							"value": 19220713
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "视频直播",
+					"value": 192208,
+					"children": [
+						{
+							"level": 3,
+							"label": "长视频",
+							"value": 19220801
+						},
+						{
+							"level": 3,
+							"label": "短视频",
+							"value": 19220802
+						},
+						{
+							"level": 3,
+							"label": "直播",
+							"value": 19220803
+						},
+						{
+							"level": 3,
+							"label": "音频",
+							"value": 19220804
+						},
+						{
+							"level": 3,
+							"label": "其他视频直播",
+							"value": 19220805
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "其他传媒及内容",
+					"value": 192209,
+					"children": [
+						{
+							"level": 3,
+							"label": "其他传媒及内容",
+							"value": 19220901
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "书籍杂志-实体书",
+					"value": 192210,
+					"children": [
+						{
+							"level": 3,
+							"label": "书籍杂志-实体书",
+							"value": 19221001
+						}
+					]
+				}
+			]
+		},
+		{
+			"level": 1,
+			"label": "物流业",
+			"value": 1923,
+			"children": [
+				{
+					"level": 2,
+					"label": "快递物流",
+					"value": 192301,
+					"children": [
+						{
+							"level": 3,
+							"label": "普通快递运输",
+							"value": 19230101
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "货运代理",
+					"value": 192302,
+					"children": [
+						{
+							"level": 3,
+							"label": "货运代理",
+							"value": 19230201
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "特殊运输",
+					"value": 192303,
+					"children": [
+						{
+							"level": 3,
+							"label": "特殊运输",
+							"value": 19230301
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "物流基础设施",
+					"value": 192304,
+					"children": [
+						{
+							"level": 3,
+							"label": "物流基础设施",
+							"value": 19230401
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "其他物流业",
+					"value": 192305,
+					"children": [
+						{
+							"level": 3,
+							"label": "其他物流业",
+							"value": 19230501
+						}
+					]
+				}
+			]
+		},
+		{
+			"level": 1,
+			"label": "通信",
+			"value": 1924,
+			"children": [
+				{
+					"level": 2,
+					"label": "电信运营商",
+					"value": 192401,
+					"children": [
+						{
+							"level": 3,
+							"label": "电信运营商",
+							"value": 19240101
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "虚拟运营商",
+					"value": 192402,
+					"children": [
+						{
+							"level": 3,
+							"label": "虚拟运营商",
+							"value": 19240201
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "通信设备",
+					"value": 192403,
+					"children": [
+						{
+							"level": 3,
+							"label": "通信设备",
+							"value": 19240301
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "其他通信",
+					"value": 192404,
+					"children": [
+						{
+							"level": 3,
+							"label": "其他通信",
+							"value": 19240401
+						}
+					]
+				}
+			]
+		},
+		{
+			"level": 1,
+			"label": "传统金融业",
+			"value": 1925,
+			"children": [
+				{
+					"level": 2,
+					"label": "银行卡组织",
+					"value": 192512,
+					"children": [
+						{
+							"level": 3,
+							"label": "银行卡组织",
+							"value": 19251201
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "银行业",
+					"value": 192501,
+					"children": [
+						{
+							"level": 3,
+							"label": "信用卡",
+							"value": 19250101
+						},
+						{
+							"level": 3,
+							"label": "贷款",
+							"value": 19250102
+						},
+						{
+							"level": 3,
+							"label": "银行理财",
+							"value": 19250103
+						},
+						{
+							"level": 3,
+							"label": "银行服务",
+							"value": 19250104
+						},
+						{
+							"level": 3,
+							"label": "其他银行业",
+							"value": 19250105
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "证券业",
+					"value": 192502,
+					"children": [
+						{
+							"level": 3,
+							"label": "股票",
+							"value": 19250201
+						},
+						{
+							"level": 3,
+							"label": "债券及其他衍生品",
+							"value": 19250202
+						},
+						{
+							"level": 3,
+							"label": "其他证券业",
+							"value": 19250203
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "保险业",
+					"value": 192503,
+					"children": [
+						{
+							"level": 3,
+							"label": "保险业",
+							"value": 19250301
+						},
+						{
+							"level": 3,
+							"label": "其他保险业",
+							"value": 19250305
+						},
+						{
+							"level": 3,
+							"label": "保险经纪公司",
+							"value": 19250302
+						},
+						{
+							"level": 3,
+							"label": "保险中介业务",
+							"value": 19250303
+						},
+						{
+							"level": 3,
+							"label": "保险公估业务",
+							"value": 19250304
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "信托业",
+					"value": 192504,
+					"children": [
+						{
+							"level": 3,
+							"label": "信托业",
+							"value": 19250401
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "担保及保理",
+					"value": 192505,
+					"children": [
+						{
+							"level": 3,
+							"label": "担保及保理",
+							"value": 19250501
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "拍卖典当",
+					"value": 192506,
+					"children": [
+						{
+							"level": 3,
+							"label": "拍卖典当",
+							"value": 19250601
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "期货",
+					"value": 192507,
+					"children": [
+						{
+							"level": 3,
+							"label": "期货",
+							"value": 19250701
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "基金",
+					"value": 192508,
+					"children": [
+						{
+							"level": 3,
+							"label": "公募基金",
+							"value": 19250801
+						},
+						{
+							"level": 3,
+							"label": "私募基金",
+							"value": 19250802
+						},
+						{
+							"level": 3,
+							"label": "风险投资基金",
+							"value": 19250803
+						},
+						{
+							"level": 3,
+							"label": "其他基金",
+							"value": 19250804
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "征信机构",
+					"value": 192509,
+					"children": [
+						{
+							"level": 3,
+							"label": "征信机构",
+							"value": 19250901
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "小额贷款公司",
+					"value": 192510,
+					"children": [
+						{
+							"level": 3,
+							"label": "地方小额贷款公司",
+							"value": 19251001
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "其他传统金融业",
+					"value": 192511,
+					"children": [
+						{
+							"level": 3,
+							"label": "其他传统金融业",
+							"value": 19251101
+						}
+					]
+				}
+			]
+		},
+		{
+			"level": 1,
+			"label": "互联网金融",
+			"value": 1926,
+			"children": [
+				{
+					"level": 2,
+					"label": "综合理财",
+					"value": 192601,
+					"children": [
+						{
+							"level": 3,
+							"label": "理财超市",
+							"value": 19260103
+						},
+						{
+							"level": 3,
+							"label": "其他综合理财",
+							"value": 19260105
+						},
+						{
+							"level": 3,
+							"label": "基金代销平台",
+							"value": 19260101
+						},
+						{
+							"level": 3,
+							"label": "FOF及MOM投资",
+							"value": 19260102
+						},
+						{
+							"level": 3,
+							"label": "综合投资",
+							"value": 19260104
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "互联网证券平台",
+					"value": 192602,
+					"children": [
+						{
+							"level": 3,
+							"label": "投资咨询/顾问",
+							"value": 19260201
+						},
+						{
+							"level": 3,
+							"label": "股权和证券及衍生品交易",
+							"value": 19260202
+						},
+						{
+							"level": 3,
+							"label": "其他互联网证券平台",
+							"value": 19260203
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "港股美股证券公司及证券投资",
+					"value": 192603,
+					"children": [
+						{
+							"level": 3,
+							"label": "港股美股证券公司及证券投资",
+							"value": 19260301
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "贷款服务",
+					"value": 192604,
+					"children": [
+						{
+							"level": 3,
+							"label": "其他贷款服务",
+							"value": 19260408
+						},
+						{
+							"level": 3,
+							"label": "助贷信息服务",
+							"value": 19260406
+						},
+						{
+							"level": 3,
+							"label": "互联网小贷",
+							"value": 19260401
+						},
+						{
+							"level": 3,
+							"label": "消费金融",
+							"value": 19260402
+						},
+						{
+							"level": 3,
+							"label": "融资租赁",
+							"value": 19260403
+						},
+						{
+							"level": 3,
+							"label": "贷款超市",
+							"value": 19260404
+						},
+						{
+							"level": 3,
+							"label": "信用保险贷款",
+							"value": 19260405
+						},
+						{
+							"level": 3,
+							"label": "实物分期",
+							"value": 19260407
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "外汇",
+					"value": 192605,
+					"children": [
+						{
+							"level": 3,
+							"label": "外汇现货",
+							"value": 19260501
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "贵金属",
+					"value": 192606,
+					"children": [
+						{
+							"level": 3,
+							"label": "境外贵金属现货交易",
+							"value": 19260601
+						},
+						{
+							"level": 3,
+							"label": "贵金属交易所",
+							"value": 19260602
+						},
+						{
+							"level": 3,
+							"label": "上海黄金交易所及其会员",
+							"value": 19260603
+						},
+						{
+							"level": 3,
+							"label": "其他贵金属交易",
+							"value": 19260604
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "P2P",
+					"value": 192607,
+					"children": [
+						{
+							"level": 3,
+							"label": "P2P贷款",
+							"value": 19260701
+						},
+						{
+							"level": 3,
+							"label": "P2P理财",
+							"value": 19260702
+						},
+						{
+							"level": 3,
+							"label": "其他P2P",
+							"value": 19260703
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "第三方支付",
+					"value": 192608,
+					"children": [
+						{
+							"level": 3,
+							"label": "POS机推广",
+							"value": 19260801
+						},
+						{
+							"level": 3,
+							"label": "第三方支付",
+							"value": 19260802
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "众筹",
+					"value": 192609,
+					"children": [
+						{
+							"level": 3,
+							"label": "众筹",
+							"value": 19260901
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "数字货币",
+					"value": 192610,
+					"children": [
+						{
+							"level": 3,
+							"label": "数字货币",
+							"value": 19261001
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "金融门户网站",
+					"value": 192611,
+					"children": [
+						{
+							"level": 3,
+							"label": "金融门户网站",
+							"value": 19261101
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "互联网银行",
+					"value": 192612,
+					"children": [
+						{
+							"level": 3,
+							"label": "互联网银行",
+							"value": 19261201
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "互联网保险",
+					"value": 192613,
+					"children": [
+						{
+							"level": 3,
+							"label": "互联网保险",
+							"value": 19261301
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "综合金融平台及工具",
+					"value": 192614,
+					"children": [
+						{
+							"level": 3,
+							"label": "综合金融平台及工具",
+							"value": 19261401
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "其他互联网金融",
+					"value": 192615,
+					"children": [
+						{
+							"level": 3,
+							"label": "其他互联网金融",
+							"value": 19261501
+						}
+					]
+				}
+			]
+		},
+		{
+			"level": 1,
+			"label": "餐饮服务",
+			"value": 1927,
+			"children": [
+				{
+					"level": 2,
+					"label": "餐厅",
+					"value": 192701,
+					"children": [
+						{
+							"level": 3,
+							"label": "中式料理",
+							"value": 19270101
+						},
+						{
+							"level": 3,
+							"label": "面包甜点",
+							"value": 19270102
+						},
+						{
+							"level": 3,
+							"label": "商务宴请",
+							"value": 19270103
+						},
+						{
+							"level": 3,
+							"label": "其他餐厅",
+							"value": 19270104
+						},
+						{
+							"level": 3,
+							"label": "东南亚菜系",
+							"value": 19270107
+						},
+						{
+							"level": 3,
+							"label": "西式料理",
+							"value": 19270105
+						},
+						{
+							"level": 3,
+							"label": "日韩料理",
+							"value": 19270106
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "饮品",
+					"value": 192702,
+					"children": [
+						{
+							"level": 3,
+							"label": "饮品/冷饮",
+							"value": 19270202
+						},
+						{
+							"level": 3,
+							"label": "酒吧",
+							"value": 19270201
+						},
+						{
+							"level": 3,
+							"label": "其他饮品",
+							"value": 19270203
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "其他餐饮服务",
+					"value": 192703,
+					"children": [
+						{
+							"level": 3,
+							"label": "其他餐饮服务",
+							"value": 19270301
+						}
+					]
+				}
+			]
+		},
+		{
+			"level": 1,
+			"label": "工具类软件",
+			"value": 1928,
+			"children": [
+				{
+					"level": 2,
+					"label": "软件工具",
+					"value": 192801,
+					"children": [
+						{
+							"level": 3,
+							"label": "开发软件",
+							"value": 19280105
+						},
+						{
+							"level": 3,
+							"label": "其他软件工具",
+							"value": 19280106
+						},
+						{
+							"level": 3,
+							"label": "办公软件",
+							"value": 19280102
+						},
+						{
+							"level": 3,
+							"label": "财务软件",
+							"value": 19280101
+						},
+						{
+							"level": 3,
+							"label": "制图软件",
+							"value": 19280104
+						},
+						{
+							"level": 3,
+							"label": "数据库软件",
+							"value": 19280103
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "多媒体处理",
+					"value": 192802,
+					"children": [
+						{
+							"level": 3,
+							"label": "图片拍摄及处理",
+							"value": 19280201
+						},
+						{
+							"level": 3,
+							"label": "视频拍摄及处理",
+							"value": 19280202
+						},
+						{
+							"level": 3,
+							"label": "音频录制及处理",
+							"value": 19280203
+						},
+						{
+							"level": 3,
+							"label": "其他多媒体处理",
+							"value": 19280204
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "社交通讯",
+					"value": 192803,
+					"children": [
+						{
+							"level": 3,
+							"label": "特殊社交通讯",
+							"value": 19280302
+						},
+						{
+							"level": 3,
+							"label": "其他社交通讯",
+							"value": 19280303
+						},
+						{
+							"level": 3,
+							"label": "一般社交通讯",
+							"value": 19280301
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "实用工具",
+					"value": 192804,
+					"children": [
+						{
+							"level": 3,
+							"label": "测量绘图",
+							"value": 19280415
+						},
+						{
+							"level": 3,
+							"label": "远程会议",
+							"value": 19280417
+						},
+						{
+							"level": 3,
+							"label": "监控遥控",
+							"value": 19280413
+						},
+						{
+							"level": 3,
+							"label": "日历闹钟",
+							"value": 19280405
+						},
+						{
+							"level": 3,
+							"label": "杀毒软件",
+							"value": 19280402
+						},
+						{
+							"level": 3,
+							"label": "性能优化",
+							"value": 19280403
+						},
+						{
+							"level": 3,
+							"label": "地图导航",
+							"value": 19280404
+						},
+						{
+							"level": 3,
+							"label": "天气服务",
+							"value": 19280406
+						},
+						{
+							"level": 3,
+							"label": "词典翻译",
+							"value": 19280407
+						},
+						{
+							"level": 3,
+							"label": "星座运势",
+							"value": 19280408
+						},
+						{
+							"level": 3,
+							"label": "安全服务",
+							"value": 19280419
+						},
+						{
+							"level": 3,
+							"label": "其他实用工具",
+							"value": 19280420
+						},
+						{
+							"level": 3,
+							"label": "健康娱乐生活",
+							"value": 19280421
+						},
+						{
+							"level": 3,
+							"label": "来电秀",
+							"value": 19280422
+						},
+						{
+							"level": 3,
+							"label": "输入法",
+							"value": 19280423
+						},
+						{
+							"level": 3,
+							"label": "wifi",
+							"value": 19280424
+						},
+						{
+							"level": 3,
+							"label": "应用管理",
+							"value": 19280409
+						},
+						{
+							"level": 3,
+							"label": "存储备份",
+							"value": 19280411
+						},
+						{
+							"level": 3,
+							"label": "效率软件",
+							"value": 19280414
+						},
+						{
+							"level": 3,
+							"label": "违章查询",
+							"value": 19280410
+						},
+						{
+							"level": 3,
+							"label": "虚拟网络",
+							"value": 19280416
+						},
+						{
+							"level": 3,
+							"label": "打印传输",
+							"value": 19280418
+						},
+						{
+							"level": 3,
+							"label": "桌面壁纸",
+							"value": 19280425
+						},
+						{
+							"level": 3,
+							"label": "浏览器",
+							"value": 19280401
+						},
+						{
+							"level": 3,
+							"label": "图文识别",
+							"value": 19280412
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "其他工具类软件",
+					"value": 192805,
+					"children": [
+						{
+							"level": 3,
+							"label": "其他工具类软件",
+							"value": 19280501
+						}
+					]
+				}
+			]
+		},
+		{
+			"level": 1,
+			"label": "招商加盟",
+			"value": 1929,
+			"children": [
+				{
+					"level": 2,
+					"label": "招商加盟联展平台",
+					"value": 192901,
+					"children": [
+						{
+							"level": 3,
+							"label": "招商加盟联展平台",
+							"value": 19290101
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "生活用品加盟",
+					"value": 192902,
+					"children": [
+						{
+							"level": 3,
+							"label": "生活用品加盟",
+							"value": 19290201
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "生活服务加盟",
+					"value": 192903,
+					"children": [
+						{
+							"level": 3,
+							"label": "生活服务加盟",
+							"value": 19290301
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "服装配饰加盟",
+					"value": 192904,
+					"children": [
+						{
+							"level": 3,
+							"label": "服装配饰加盟",
+							"value": 19290401
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "美容美发加盟",
+					"value": 192905,
+					"children": [
+						{
+							"level": 3,
+							"label": "美容美发加盟",
+							"value": 19290501
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "室内娱乐加盟",
+					"value": 192906,
+					"children": [
+						{
+							"level": 3,
+							"label": "室内娱乐加盟",
+							"value": 19290601
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "教育培训加盟",
+					"value": 192907,
+					"children": [
+						{
+							"level": 3,
+							"label": "教育培训加盟",
+							"value": 19290701
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "酒店加盟",
+					"value": 192908,
+					"children": [
+						{
+							"level": 3,
+							"label": "酒店加盟",
+							"value": 19290801
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "餐食加盟",
+					"value": 192909,
+					"children": [
+						{
+							"level": 3,
+							"label": "中式美食烧烤类加盟",
+							"value": 19290903
+						},
+						{
+							"level": 3,
+							"label": "中式美食火锅类加盟",
+							"value": 19290901
+						},
+						{
+							"level": 3,
+							"label": "中式美食面食类加盟",
+							"value": 19290902
+						},
+						{
+							"level": 3,
+							"label": "中式美食风味小吃加盟",
+							"value": 19290904
+						},
+						{
+							"level": 3,
+							"label": "日韩美食加盟",
+							"value": 19290906
+						},
+						{
+							"level": 3,
+							"label": "西式美食加盟",
+							"value": 19290907
+						},
+						{
+							"level": 3,
+							"label": "中式美食其他加盟",
+							"value": 19290905
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "医疗医药加盟",
+					"value": 192910,
+					"children": [
+						{
+							"level": 3,
+							"label": "医疗医药加盟",
+							"value": 19291001
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "房产家居建材加盟",
+					"value": 192911,
+					"children": [
+						{
+							"level": 3,
+							"label": "家装建材加盟",
+							"value": 19291101
+						},
+						{
+							"level": 3,
+							"label": "装修环境治理加盟",
+							"value": 19291106
+						},
+						{
+							"level": 3,
+							"label": "其他建材加盟",
+							"value": 19291107
+						},
+						{
+							"level": 3,
+							"label": "家居加盟",
+							"value": 19291102
+						},
+						{
+							"level": 3,
+							"label": "建材零售加盟",
+							"value": 19291103
+						},
+						{
+							"level": 3,
+							"label": "房产加盟",
+							"value": 19291104
+						},
+						{
+							"level": 3,
+							"label": "五金电工加盟",
+							"value": 19291105
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "食品加盟",
+					"value": 192912,
+					"children": [
+						{
+							"level": 3,
+							"label": "食品加盟",
+							"value": 19291201
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "工业加盟",
+					"value": 192913,
+					"children": [
+						{
+							"level": 3,
+							"label": "工业加盟",
+							"value": 19291301
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "汽车产品加盟",
+					"value": 192914,
+					"children": [
+						{
+							"level": 3,
+							"label": "汽车产品加盟",
+							"value": 19291401
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "互联网软件加盟",
+					"value": 192915,
+					"children": [
+						{
+							"level": 3,
+							"label": "互联网软件加盟",
+							"value": 19291501
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "机械电子加盟",
+					"value": 192916,
+					"children": [
+						{
+							"level": 3,
+							"label": "机械电子加盟",
+							"value": 19291601
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "招聘中介加盟",
+					"value": 192917,
+					"children": [
+						{
+							"level": 3,
+							"label": "招聘中介加盟",
+							"value": 19291701
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "其他招商加盟",
+					"value": 192918,
+					"children": [
+						{
+							"level": 3,
+							"label": "其他招商加盟",
+							"value": 19291801
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "减肥加盟",
+					"value": 192919,
+					"children": [
+						{
+							"level": 3,
+							"label": "减肥加盟",
+							"value": 19291901
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "饮品烘焙加盟",
+					"value": 192920,
+					"children": [
+						{
+							"level": 3,
+							"label": "饮品烘焙加盟",
+							"value": 19292001
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "保健品加盟",
+					"value": 192921,
+					"children": [
+						{
+							"level": 3,
+							"label": "保健品加盟",
+							"value": 19292101
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "酒加盟",
+					"value": 192922,
+					"children": [
+						{
+							"level": 3,
+							"label": "酒加盟",
+							"value": 19292201
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "农业加盟",
+					"value": 192923,
+					"children": [
+						{
+							"level": 3,
+							"label": "农业加盟",
+							"value": 19292301
+						}
+					]
+				},
+				{
+					"level": 2,
+					"label": "商务服务加盟",
+					"value": 192924,
+					"children": [
+						{
+							"level": 3,
+							"label": "商务服务加盟",
+							"value": 19292401
+						}
+					]
+				}
+			]
+		}
+	]
+}
